@@ -1,0 +1,14 @@
+C:\Users\adamn\Desktop\projects\CSHARP_TournamentApp\TournamentTracker\TrackerUI\bin\Debug\TrackerUI.exe.config
+C:\Users\adamn\Desktop\projects\CSHARP_TournamentApp\TournamentTracker\TrackerUI\bin\Debug\TrackerUI.exe
+C:\Users\adamn\Desktop\projects\CSHARP_TournamentApp\TournamentTracker\TrackerUI\bin\Debug\TrackerUI.pdb
+C:\Users\adamn\Desktop\projects\CSHARP_TournamentApp\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csprojAssemblyReference.cache
+C:\Users\adamn\Desktop\projects\CSHARP_TournamentApp\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.Properties.Resources.resources
+C:\Users\adamn\Desktop\projects\CSHARP_TournamentApp\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.teamOneScoreValue.resources
+C:\Users\adamn\Desktop\projects\CSHARP_TournamentApp\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.GenerateResource.cache
+C:\Users\adamn\Desktop\projects\CSHARP_TournamentApp\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.CoreCompileInputs.cache
+C:\Users\adamn\Desktop\projects\CSHARP_TournamentApp\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.exe
+C:\Users\adamn\Desktop\projects\CSHARP_TournamentApp\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.pdb
+C:\Users\adamn\Desktop\projects\CSHARP_TournamentApp\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreatePrizeForm.resources
+C:\Users\adamn\Desktop\projects\CSHARP_TournamentApp\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreateTeamForm.resources
+C:\Users\adamn\Desktop\projects\CSHARP_TournamentApp\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreateTournamentForm.resources
+C:\Users\adamn\Desktop\projects\CSHARP_TournamentApp\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.TournamentDashboardForm.resources
